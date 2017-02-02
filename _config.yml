@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+title: gleeBox
+description: Keyboard glee for your web
+show_downloads: false
+google_analytics:
+theme:
