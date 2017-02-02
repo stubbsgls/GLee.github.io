@@ -23,11 +23,23 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size: 28px;
+  margin-bottom: 15px;
 }
 
 h2 {
   color:#393939;
+  margin-top: 40px;
+}
+
+h3 {
+  margin-top: 40px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+}
+
+h4 {
+  margin-top: 40px;
 }
 
 h3, h4, h5, h6 {
@@ -105,10 +117,9 @@ img {
 }
 
 header {
-  width:270px;
-  float:left;
-  position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 50px;
 }
 
 header ul {
@@ -171,8 +182,6 @@ header ul a strong {
 }
 
 section {
-  width:500px;
-  float:right;
   padding-bottom:50px;
 }
 
@@ -189,9 +198,7 @@ hr {
 
 footer {
   width:270px;
-  float:left;
-  position:fixed;
-  bottom:50px;
+
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -216,7 +223,6 @@ footer {
     border:1px solid #e5e5e5;
     border-width:1px 0;
     padding:20px 0;
-    margin:0 0 20px;
   }
 
   header a small {
