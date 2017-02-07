@@ -79,7 +79,7 @@ Syntax is `*selector` where selector is a jQuery selector. Hitting `ENTER` will 
 | `*textarea` | All textareas |
 | `**` | Do not try this at home. |
 
-### Advanced features
+### Advanced
 
 Use the Options page in Chrome and the Options panel in Firefox to customize gleeBox. You can customize the appearance (size, location, theme), shortcut key, switch features on and off, change the default search engine and lots more.
 

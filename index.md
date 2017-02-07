@@ -4,6 +4,11 @@ layout: default
 
 gleeBox is a keyboard-centric approach to navigating the web and provides alternatives to actions traditionally performed via the mouse. In all cases, gleeBox is mostly meant for keyboard and command line lovers.
 
+## Download
+
+- [Google Chrome extension](https://chrome.google.com/extensions/detail/miinkdcjglbkbanpkghnkgkgbamdkgji){:target="_blank"}
+- [Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/59191){:target="_blank"} (deprecated)
+
 ## Screencast
 
 <div style="text-align: center; margin-bottom: 20px">
@@ -11,11 +16,6 @@ gleeBox is a keyboard-centric approach to navigating the web and provides altern
 </div>
 
 Also watch: [gleeBox introductory video](http://vimeo.com/7987369){:target="_blank"}
-
-## Download
-
-- [Google Chrome extension](https://chrome.google.com/extensions/detail/miinkdcjglbkbanpkghnkgkgbamdkgji){:target="_blank"}
-- [Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/59191){:target="_blank"} (deprecated)
 
 ## Help
 Read the [User Manual](manual) to get started with gleeBox.
