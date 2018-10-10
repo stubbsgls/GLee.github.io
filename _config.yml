@@ -3,3 +3,5 @@ description: Keyboard glee for your web
 show_downloads: false
 google_analytics:
 theme:
+
+theme: jekyll-theme-architect
